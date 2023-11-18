@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CalculaIMC.cpp" />
+    <ClCompile Include="IMC.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IMC.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

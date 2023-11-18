@@ -18,5 +18,13 @@
     <ClCompile Include="CalculaIMC.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IMC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IMC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
