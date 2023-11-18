@@ -9,6 +9,7 @@ Formador: João Martiniano.*
 - **A classe IMC deve permitir calcular o IMC e mostrar os resultados finais na consola.**
     - **Exemplo da classe IMC:**
 IMC.h
+
 ![IMC.H](IMC.jpg)
 
 <br/>
@@ -16,6 +17,7 @@ IMC.h
 - **Cria o código necessário no programa principal e no ficheiro ‘IMC.cpp’ de modo a pedires ao utilizador o nome, a altura e o peso.**
 
     -Exemplo pedido de dados:
+
 ![Pedido_de_Dados](PedeDados.png)
 
 <br/>
@@ -28,5 +30,7 @@ IMC.h
     - Obesidade grau I, quando o resultado está entre 30 e 34.9 kg/m2.
     - Obesidade grau II, quando o resultado está entre 35 e 39.9 kg/m2.
     - Obesidade grau III, quando o resultado e maior ou igual a 40 kg/m2.
+
 -Exemplo mostra de dados:
+
 ![Mostrar_Dados](MostraDados.png)
